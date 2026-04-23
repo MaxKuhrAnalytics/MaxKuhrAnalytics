@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Max Kuhr
 
-<!--
-**MaxKuhrAnalytics/MaxKuhrAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. in Statistics graduate focused on data analysis, statistical modeling, and visualization.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, R
+- Time Series Analysis, Regression, Bayesian Methods
+- Data Cleaning, EDA, Visualization
+- Tools: R Shiny, Jupyter, SQL (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+
+### YouTube Analytics Dashboard - "Shinyvicta"
+- Built with R Shiny + Python
+- Analyzed 1,000+ videos using YouTube API
+- [Repo Link] | [https://mak37830.shinyapps.io/shinyvictaapp/]
+
+### Time Series Analysis of YouTube Engagement
+- Monthly aggregation + trend analysis
+- Identified engagement patterns over time
+- [Repo Link]
+
+### Regression & Categorical Analysis
+- GLMs, inference, and modeling workflows
+- [Repo Link]
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/max-kuhr-5bb8873b9/]
+- Email: [mak37830@uga.edu]
