@@ -13,12 +13,12 @@ M.S. in Statistics graduate focused on data analysis, statistical modeling, and 
 ### YouTube Analytics Dashboard - "Shinyvicta"
 - Built with R Shiny + Python
 - Analyzed 1,000+ videos using YouTube API
-- [Repo Link] | [https://mak37830.shinyapps.io/shinyvictaapp/]
+- [https://github.com/MaxKuhrAnalytics/ShinyvictaApp] | [https://mak37830.shinyapps.io/shinyvictaapp/]
 
 ### Time Series Analysis of YouTube Engagement
 - Monthly aggregation + trend analysis
 - Identified engagement patterns over time
-- [Repo Link]
+- [https://github.com/MaxKuhrAnalytics/YoutubeTimeSeriesAnalysisProject]
 
 ### Regression & Categorical Analysis
 - GLMs, inference, and modeling workflows
